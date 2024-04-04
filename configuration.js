@@ -8,7 +8,7 @@ const hosts_local = {
 const hosts_remote = {
    arithmetic_service: "https://arithmetic-service.onrender.com",
    primes_service: "https://primes-service.onrender.com",
-   ciphers_service: "https://ciphers-service-hbahramian.onrender.com",
+   ciphers_service: "https://primes-service-latest-withlogin.onrender.com",
    quotation_service: "?"
 };
 
